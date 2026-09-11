@@ -28,8 +28,9 @@
 Git과 GitHub를 이용해 로컬 프로젝트를 원격 저장소와 연결하고, 기능 수정 이후 `commit`과 `push`를 수행하는 과정까지 직접 진행했다.
 
 * **GitHub 저장소:** [https://github.com/riakwjddd06/news-manager](https://github.com/riakwjddd06/news-manager)
-* **AI 활용 대화 로그:** [https://share.gemini.google/iKwwlmLQZdgO](https://share.gemini.google/iKwwlmLQZdgO)
-[https://chatgpt.com/share/6aa3bd09-84e0-83ee-a119-c739c48021ce](https://chatgpt.com/share/6aa3bd09-84e0-83ee-a119-c739c48021ce)
+* **AI 활용 대화 로그:**
+-Gemini: [https://share.gemini.google/iKwwlmLQZdgO](https://share.gemini.google/iKwwlmLQZdgO)
+-Chat GPT: [https://chatgpt.com/share/6aa3bd09-84e0-83ee-a119-c739c48021ce](https://chatgpt.com/share/6aa3bd09-84e0-83ee-a119-c739c48021ce)
 
 ---
 
