@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .env
 config.json
+exported_news.csv
+exported_news.jsonl
